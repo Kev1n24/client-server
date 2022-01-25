@@ -1,0 +1,18 @@
+{
+    "orders": [
+        {
+            "buyer": "Ivanov I.I.",
+            "date": "24.09.2017",
+            "item": "\u043f\u0440\u0438\u043d\u0442\u0435\u0440",
+            "price": "6700",
+            "quantity": "10"
+        },
+        {
+            "buyer": "Ivanov I.I.",
+            "date": "24.09.2017",
+            "item": "\u043f\u0440\u0438\u043d\u0442\u0435\u0440",
+            "price": "6700",
+            "quantity": "10"
+        }
+    ]
+}
